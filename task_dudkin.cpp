@@ -30,6 +30,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	}
 	int *diffValues = (int *)calloc(M, sizeof(int)); //Массив, содержащий различные значения
 	//Сравниваем каждый элемент исходного массива с каждым элементом массива diffValues
+	
+	// Second commit to my branch
 	int index = 0;
 	for (int i = 0; i < M; i++) 
 	{ 
