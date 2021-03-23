@@ -21,6 +21,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		scanf("%i", A+i);
 	}
 	//First commit my branch
+	//Second commit my branch
 	printf("Here is array you have entered: ");
 	for (int u = 0; u < M; u++) 
 	{
