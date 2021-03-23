@@ -17,6 +17,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	printf("Please enter the elements of the array: \n");
 	int *A = (int *)calloc(M, sizeof(int));
 	//This my first commit in master branch
+	//This my second commit in master branch
 	for (int i = 0; i < M; i++) 
 	{
 		scanf("%i", A+i);
